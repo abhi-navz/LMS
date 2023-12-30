@@ -51,3 +51,9 @@ export default {
 @tailwind utilities;
 ```
 5. Then run the server tailwind should be integrated...
+
+
+### Adding additional pluggins and dependencies
+```
+npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
+```
