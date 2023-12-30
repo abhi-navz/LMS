@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-   <h1>LMS Client</h1>
+   <h1 className='bg-red-400'>LMS Client</h1>
   )
 }
 
